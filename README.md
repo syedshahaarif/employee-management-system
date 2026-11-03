@@ -96,8 +96,8 @@ pytest
 Add screenshots to `docs/screenshots/` and link them here:
 
 
-![Dashboard](docs/screenshots/dashboard.png)
-![SQL Analytics](docs/screenshots/analytics.png)
+<img width="1366" height="768" alt="Dashboard" src="https://github.com/user-attachments/assets/24d4b1f3-250c-4409-8016-d084efa8684d" />
+
 
 
 ## SQL Concepts Demonstrated
