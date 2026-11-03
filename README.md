@@ -95,10 +95,10 @@ pytest
 
 Add screenshots to `docs/screenshots/` and link them here:
 
-```
+
 ![Dashboard](docs/screenshots/dashboard.png)
 ![SQL Analytics](docs/screenshots/analytics.png)
-```
+
 
 ## SQL Concepts Demonstrated
 
